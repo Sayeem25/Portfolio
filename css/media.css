@@ -1,0 +1,499 @@
+/*********** xtra small device*************/
+@media (max-width:575.98px){
+    
+   .navbar-light .navbar-brand {
+	font-size: 36px;
+    }
+    .navbar-nav {
+	background-color: #333;
+    }
+    .navbar-light .navbar-nav .nav-link {
+	color: #fff;
+    }
+    .navbar-light .navbar-nav .nav-link:hover {
+	color: #fff;
+
+    }
+    .navbar-expand-lg .navbar-nav .nav-link.active{
+    color: #a9143f;
+}
+    .navbar-light .navbar-nav .nav-link:hover:after{
+    opacity: 0;
+}
+    .navbar-toggler{
+        border-color: #fff!important;
+    }
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .banner-text {
+	padding: 100px 0px;
+    }
+    .banner-text h4 {
+	font-size: 22px;
+	font-weight: 500;
+	padding-bottom: 0px;
+    }
+    .banner-text h1 {
+	font-size: 32px;
+	font-weight: 600;
+	padding-bottom: 20px;
+    }
+    .banner-text p {
+	font-size: 14px;
+	padding-bottom: 10px;
+    }
+    .banner-text .btn {
+	font-size: 10px;
+	padding: 12px 25px;
+    }
+    
+ 
+/*    about part*/
+    #about {
+	padding: 40px 0;
+    }
+    .about-part h2 {
+	font-size: 30px;
+	font-weight: 400;
+    }
+    
+    .about-part h2::after {
+	width: 32%;
+    }
+    .about-part h2::before {
+	width: 18%;
+	height: 
+    }
+    .about-img {
+	padding: 0 70px;
+	padding-top: 10px;
+    }
+    .about-content h3 {
+	padding-top: 40px;
+	font-size: 22px;
+	font-weight: 400;
+    }
+    .about-content h5 {
+	font-size: 16px;
+	padding-bottom: 5px;
+}
+    .about-content p {
+	font-size: 16px;
+	line-height: 22px;
+}
+    .total i {
+	font-size: 18px;
+        padding-bottom: 0px;
+}
+    .total p {
+	font-size: 12px;
+}
+    .total span {
+	font-size: 20px;
+}
+    .about-icon i {
+	font-size: 16px;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	margin-right: 10px;
+}
+    .about-icon {
+	text-align: center;
+}
+    
+
+ #service {
+	padding: 40px 0;
+    }
+    .service-part h2 {
+	font-size: 30px;
+	font-weight: 400;
+    }
+    
+    .service-part h2::after {
+	width: 32%;
+    }
+    .service-part h2::before {
+	width: 18%;
+    }
+.service-boxes {
+	margin-top: 40px;
+	padding: 5px 0;
+}
+.service-content h3 {
+	font-size: 22px;
+	padding: 5px 0;
+}
+.service-content p {
+	font-size: 13px;
+	line-height: 18px;
+	margin-left: 12px;
+}
+    
+
+#portfolio {
+	padding-top: 25px;
+}
+    .portfolio-part h2 {
+	font-size: 30px;
+	font-weight: 400;
+    }
+    
+    .portfolio-part h2::after {
+	width: 32%;
+    }
+    .portfolio-part h2::before {
+	width: 18%;
+    }
+.button {
+	padding-bottom: 20px;
+	padding-top: 40px;
+}
+button {
+	font-size: 13px;
+	padding: 0px 9px;
+
+}
+    
+    
+    
+    
+#team {
+	padding: 40px 0;
+}
+.team-part h2 {
+	font-size: 30px;
+	font-weight: 400;
+    }
+    
+    .team-part h2::after {
+	width: 32%;
+    }
+    .team-part h2::before {
+	width: 18%;
+    }
+.card-title {
+	padding-top: 20px;
+	font-size: 20px;
+}
+.card-text {
+	padding-top: 0px;
+	font-size: 11px;
+	line-height: 17px;
+	padding-bottom: 0px;
+}
+.icon i{
+	font-size: 14px;
+}
+.icon i {
+	font-size: 16px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    margin-right: 10px;
+}
+.team-item {
+	padding-top: 30px;
+}
+    
+    
+    
+    
+#testimonial {
+	padding-top: 25px;
+}
+    .testimonial-part h2 {
+	font-size: 30px;
+	font-weight: 400;
+    }
+    
+    .testimonial-part h2::after {
+	width: 32%;
+    }
+    .testimonial-part h2::before {
+	width: 18%;
+    }  
+.test-content h3 {
+	padding-top: 30px;
+	font-size: 18px;
+}
+.test-content h5 {
+	font-size: 16px;
+}
+.test-content p {
+	font-size: 11px;
+	line-height: 17px;
+	padding: 0px 30px;
+}
+#testimonial i {
+	width: 30px;
+	height: 30px;
+	line-height: 27px;
+	
+	margin-bottom: 30px;
+}
+.right {
+	right: 30%;
+}
+.left {
+	left: 35%;
+}
+#testimonial i {
+	margin-bottom: 50px;
+}
+    
+ 
+    
+
+#contact {
+	padding-top: 25px;
+}
+.contact-part h2 {
+	font-size: 30px;
+	font-weight: 400;
+    }
+    .contact-part h2::after {
+	width: 32%;
+    }
+    .contact-part h2::before {
+	width: 18%;
+    }  
+.contact-left {
+	margin-top: 30px;
+	padding: 5px 5px;
+}
+.contact-left h3 {
+	font-size: 18px;
+	font-weight: 400;
+}
+.contact-left p {
+	padding-left: 42px;
+	font-size: 13px;
+}
+ .contact-left1 h3 {
+	font-size: 18px;
+	font-weight: 400;
+}
+.contact-left1 p {
+	padding-left: 52px;
+	font-size: 13px;
+}
+.contact-left2 h3 {
+	font-size: 18px;
+	font-weight: 400;
+}
+.contact-left2 p {
+	padding-left: 42px;
+	font-size: 13px;
+}
+    
+.contact-right {
+	padding-top: 40px;
+}
+    
+.submit a {
+	font-size: 12px;
+	padding: 12px 35px;
+}
+
+.copy p {
+    font-weight: 400;
+    color: #fff;
+    font-size: 8px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 40px;
+}
+      
+    
+}
+
+/*********** small device*************/
+@media (min-width:576px) and (max-width:767.98px){
+    
+    .navbar-toggler{
+    border: none;
+}
+.navbar-toggler i{
+    color: #fff;
+    font-size: 24px;
+} 
+.navbar-nav{
+    background-color: #333;
+    text-align: left;
+    padding: 0px 0px;
+}
+.navbar-light .navbar-nav .nav-link:hover:after{
+    opacity: 0;
+    width: 0;
+    
+}
+    
+    
+
+    
+#about {
+	padding: 30px 0;
+}
+.about-part h2 {
+	font-size: 30px;
+}
+.about-content h3 {
+	padding-top: 34px;
+	font-size: 30px;
+}
+.about-content h5 {
+	font-size: 24px;
+	padding-bottom: 10px;
+}
+.about-content p {
+	font-size: 18px;
+	line-height: 24px;
+	padding-bottom: 10px;
+}
+    
+#service {
+	padding: 30px 0;
+}
+.service-part h2 {
+	font-size: 30px;
+}
+.service-content h3 {
+	font-size: 24px;
+	padding: 5px 0;
+    margin-left: 10px;
+}
+.service-content p {
+	font-size: 15px;
+	line-height: 22px;
+	margin-left: 10px;
+}
+    
+
+    
+#prtfolio {
+	padding: 30px 0;
+}
+.prtfolio-part h2 {
+	font-size: 30px;
+}
+        
+#team {
+	padding: 30px 0;
+}
+.team-part h2 {
+	font-size: 30px;
+}
+  
+    
+#testimonial {
+	padding-top: 25px;
+}
+.testimonial-part h2 {
+	font-size: 30px;
+}   
+.test-content p {
+	font-size: 18px;
+	padding: 10px 21px;
+}
+.right {
+	right: 38%;
+}
+.left {
+	left: 40%;
+}
+    
+      
+
+#contact {
+	padding-top: 25px;
+}
+.contact-part h2 {
+	font-size: 30px;
+}  
+.copy p {
+    font-weight: 400;
+    color: #fff;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 40px;
+}  
+    
+    
+}
+
+
+/*********** midium device*************/
+@media (min-width:768px) and (max-width:991.98px){
+    
+   .icon i{
+   	margin-right: 0px;
+   }
+ 
+}
+
+ .navbar-expand-lg .navbar-nav .nav-link {
+	padding-right: 15px;
+	padding-left: 15px;
+}
+   
+.about-content h3 {
+	padding-top: 52px;
+	font-size: 28px;
+}
+.about-content h5 {
+	font-size: 20px;
+	padding-bottom: 3px;
+}
+.about-content p {
+	font-size: 16px;
+	line-height: 22px;
+	padding-bottom: 6px;
+}
+    
+    
+.total i {
+	font-size: 22px;
+}  
+.total p {
+	font-size: 12px;
+}
+.total span {
+	font-size: 22px;
+}
+.about-icon {
+	padding-top: 16px;
+}
+    
+    
+.service-content h3 {
+	font-size: 21px;
+    margin-left: 0px;
+	
+}  
+.service-content p {
+	font-size: 13px;
+	line-height: 20px;
+	margin-left: 0px;
+}
+    
+  
+.card-title {
+	padding-top: 12px;
+	font-size: 22px;
+}  
+.card-body h6 {
+	font-size: 13px;
+
+}
+.card-text {
+	padding-top: 13px;
+	font-size: 14px;
+	line-height: 16px;
+	padding-bottom: 0px;
+} 
+
+    
+}
+
